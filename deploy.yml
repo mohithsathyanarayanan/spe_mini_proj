@@ -4,5 +4,5 @@
   tasks:
     - name: Pull MiniProject image
       docker_image:
-        name: chakradar/mini_project
+        name: mohith1803/calculator
         source: pull
