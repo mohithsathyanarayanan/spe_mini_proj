@@ -1,3 +1,2 @@
-[all]
+localhost ansible_user=mohith_spartan ansible_connection=local ansible_python_interpreter=/usr/bin/python3
 
-172.16.139.139 ansible_ssh_pass=mohith1803 ansible_user=mohith
