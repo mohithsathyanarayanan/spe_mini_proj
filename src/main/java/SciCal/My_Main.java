@@ -80,5 +80,6 @@ public class My_Main
   double return_val = Math.pow(number1 , number2);
   logger.info("[RESULT - POWER] - " + return_val);  
   return return_val;
+  //ignore
  }
 }
